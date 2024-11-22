@@ -36,13 +36,18 @@ After cloning, navigate into the project directory:
 cd TMC
 ```
 
+# Running the BackEnd
 
+```bash
+cd BackEnd
+node mongo_functions.js
+```
 
 # Running the Backend tests
 
 ## 1. Model Tests
 
-run the command ```node.model_test.js``` from the BackEnd folder
+run the command ```node model_test.js``` from the BackEnd folder
 
 ## 2. MongoFunction Tests
 
